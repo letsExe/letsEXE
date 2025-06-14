@@ -44,4 +44,5 @@
 </div>
 
 ---
+![Snake animation - Dark](https://github.com/letsExe/letsEXE/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
