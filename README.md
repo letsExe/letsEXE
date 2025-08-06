@@ -6,15 +6,10 @@
 
 ## 📊 My Stats on GitHub
 
-<div align="center">
 
-<div>
-  <a href="https://beacons.ai/letsExe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letsExe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsExe&layout=compact&langs_count=5&theme=dracula"/>
-  </a>
-</div>
-
+<div align="left" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=letsExe&show_icons=true&theme=vision-friendly-dark" alt="Juliet's GitHub Stats" width="46%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsExe&hide=html&layout=compact&theme=vision-friendly-dark" width="35%" alt="Juliet's Top Languages">
 </div>
 
 ## 💻 Languages that I use
