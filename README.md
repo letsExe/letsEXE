@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letsExe&theme=tokyonight" height="190" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=letsExe&theme=tokyonight" height="190" />
-</p>>
+</p>
 
 ## 💻 Languages that I use
 
