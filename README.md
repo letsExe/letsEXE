@@ -6,11 +6,10 @@
 
 ## 📊 My Stats on GitHub
 
-
-<div align="left" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=letsExe&show_icons=true&theme=vision-friendly-dark" alt="Let's GitHub Stats" width="46%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsExe&hide=html&layout=compact&theme=vision-friendly-dark" width="35%" alt="Let's Top Languages">
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letsExe&theme=tokyonight" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=letsExe&theme=tokyonight" height="190" />
+</p>>
 
 ## 💻 Languages that I use
 
@@ -31,7 +30,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Unreal Engine" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
