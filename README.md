@@ -8,8 +8,8 @@
 
 
 <div align="left" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=letsExe&show_icons=true&theme=vision-friendly-dark" alt="Juliet's GitHub Stats" width="46%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsExe&hide=html&layout=compact&theme=vision-friendly-dark" width="35%" alt="Juliet's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=letsExe&show_icons=true&theme=vision-friendly-dark" alt="Let's GitHub Stats" width="46%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsExe&hide=html&layout=compact&theme=vision-friendly-dark" width="35%" alt="Let's Top Languages">
 </div>
 
 ## 💻 Languages that I use
