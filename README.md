@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 Studying Computer Science at the Unioeste
+- 🔭 Bachelor in Computer Science at the Unioeste
 
 
 ## 📊 My Stats on GitHub
